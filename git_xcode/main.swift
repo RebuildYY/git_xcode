@@ -23,3 +23,4 @@ print("Hello world 5")
 print("Update on local")
 
 print("Hello world 6")
+print("Update server")
